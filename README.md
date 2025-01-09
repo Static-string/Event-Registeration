@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is designed to serve as a comprehensive tutorial for learning full-stack web development. The primary functionality of the website is to allow users to register for events and enables administrators to manage registrations, add new events, and perform administrative tasks.
+This project is designed to serve as a comprehensive project for my Alx Software Engineering full-stack web development. The primary functionality of the website is to allow users to register for events and enables administrators to manage registrations, add new events, and perform administrative tasks.
 
 ## Technologies Used
 
@@ -31,16 +31,6 @@ The project follows a step-by-step development process, incorporating various te
   - View registered users for each event.
   - Add new events to the system.
   - Perform administrative duties.
-
-## Tutorial
-
-This project was built incrementally, introducing different technologies at each step. Follow the detailed tutorial to learn full-stack web development. The link to the tutorial is provided below
-
-## Link to the tutorial of this project: https://youtu.be/S--IRWxD0To
-
-## Link to join the community of fellow developers: https://chat.whatsapp.com/BsKNmAQbiQlE3Kr928d47X
-
-## Getting Started
 
 ### Prerequisites
 
